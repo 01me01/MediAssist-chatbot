@@ -1,0 +1,33 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. Aisha Khan",
+      "specialty": "General Physician",
+      "on_call": ["14:00", "16:00"],
+      "locations": {
+        "City Care Clinic": ["09:00", "09:30", "10:00", "10:30", "11:00"],
+        "HealthPlus Centre": ["16:00", "16:30", "17:00", "17:30", "18:00"]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Dr. Arjun Mehta",
+      "specialty": "Cardiologist",
+      "on_call": ["17:00", "17:30", "18:00"],
+      "locations": {
+        "HeartCare": ["10:00", "10:30", "11:00", "11:30", "12:00"]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Dr. Neha Singh",
+      "specialty": "Dermatologist",
+      "on_call": ["15:00", "15:30"],
+      "locations": {
+        "Skin Clinic": ["09:30", "10:00", "10:30"],
+        "Wellness Hub": ["13:00", "13:30", "14:00"]
+      }
+    }
+  ]
+}
